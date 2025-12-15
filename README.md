@@ -1,4 +1,4 @@
-# SPcodes Lab Collection
+# System Program Codes
 
 This repository contains a series of C/C++ programs and input files for various system programming (SP) lab assignments. Each lab demonstrates a different concept in system programming, such as symbol tables, macro processors, assemblers, linkers, and loaders.
 
